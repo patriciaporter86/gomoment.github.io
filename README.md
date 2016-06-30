@@ -2,6 +2,7 @@
 a place to properly build our ivy docs. can test and compare with old
 
 This readme should help with master plan of whats needed/missing and process for adding/updating
+ - possible idea to make editable by all is to just have people create md for the pages they want. can edit already existing ones or create a new one, submit a 'PR'of sorts (just send the md) and ill update via mkdocs build. if done this way would be good to do in batches so dot have to add html features repeatedly
 
 MAKE CHANGES IN MARKDOWN WHENEVER POSSIBLE
 note to self: useful tool for converting old pages - https://domchristie.github.io/to-markdown/
