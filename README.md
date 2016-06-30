@@ -7,8 +7,9 @@ This readme should help with master plan of whats needed/missing and process for
 MAKE CHANGES IN MARKDOWN WHENEVER POSSIBLE
 note to self: useful tool for converting old pages - https://domchristie.github.io/to-markdown/
 
-Note: when you point Cname here, make whats currently at ivydocs.gomoment.com/Ivy-Docs still available for comparison as we continue to build this out
-      once you change name double check robots.txt with - http://tool.motoricerca.info/robots-checker.phtml
+Note: when you point Cname here, make whats currently at ivydocs.gomoment.com/Ivy-Docs still available for comparison as we continue to build this out  
+once you change name double check robots.txt with - http://tool.motoricerca.info/robots-checker.phtml  
+optional free deploy - https://surge.sh/
 
 mk docs overwrites html with each build so some features have to be added in the site folder (html files) after running mkdocs build and before pushing.
 
