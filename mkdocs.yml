@@ -1,8 +1,8 @@
 site_name: Ivy Docs
 pages:
 - Home: 'index.md'
-- Staff Console: 'Staff-Console.md'
-- Viewing Reports: 'Viewing-Reports.md'
+- Staff Console &nbsp; (Guest Conversations): 'Staff-Console.md'
+- Viewing Reports &nbsp; (Trends & Analytics): 'Viewing-Reports.md'
 - Searching For Guests: 'Searching-For-Guests.md'
 - User Accounts: 'User-Accounts.md'
 - Guest Profiles: 'Guest-Profiles.md'
