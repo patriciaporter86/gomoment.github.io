@@ -1,0 +1,6 @@
+site_name: Ivy Docs 2 (change me in mkdocs.yml)
+pages:
+- getridofthis: notneeded.md
+- Home: index.md
+- Staff Console: Staff-Console.md
+theme: readthedocs
