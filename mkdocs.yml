@@ -3,7 +3,7 @@ pages:
 - getridofthis: 'notneeded.md'
 - Home: 'index.md'
 - Staff Console: 
-  - 'What is the Staff Console': 'staff-console/Staff-Console.md'
-  - 'Getting To The Console': 'staff-console/Getting-To-The-Console.md' 
+ - 'What is the Staff Console': 'staff-console/Staff-Console.md'
+ - 'Getting To The Console': 'staff-console/Getting-To-The-Console.md' 
 
 theme: readthedocs
