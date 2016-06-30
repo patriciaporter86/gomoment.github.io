@@ -1,6 +1,10 @@
 site_name: Ivy Docs
 pages:
 - Home: 'index.md'
+- Hotel Setup Process: 'Hotel-Setup-Process.md'
+- Ivy For Choice: 'Ivy-For-Choice.md'
+- Managers: 'Managers.md'
+- Agents: 'Agents.md'
 - Staff Console &nbsp; (Guest Conversations): 'Staff-Console.md'
 - Viewing Reports &nbsp; (Trends & Analytics): 'Viewing-Reports.md'
 - Searching For Guests: 'Searching-For-Guests.md'
@@ -8,10 +12,6 @@ pages:
 - Guest Profiles: 'Guest-Profiles.md'
 - Messages: 'Messages.md'
 - Self Check In: 'Self-Check-In.md'
-- Hotel Setup Process: 'Hotel-Setup-Process.md'
-- Ivy For Choice: 'Ivy-For-Choice.md'
-- Managers: 'Managers.md'
-- Agents: 'Agents.md'
 - Best Practices: 'Best-Practices.md'
 - Choice Advantage Guest Report: 'Choice-Advantage-Guest-Report.md'
 theme: readthedocs
