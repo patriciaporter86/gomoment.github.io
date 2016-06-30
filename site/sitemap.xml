@@ -3,56 +3,114 @@
 
     
     <url>
-     <loc>None/notneeded/</loc>
-     <lastmod>2016-06-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
      <loc>None/</loc>
-     <lastmod>2016-06-29</lastmod>
+     <lastmod>2016-06-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
-        
     <url>
-     <loc>None/staff-console/Staff-Console/</loc>
-     <lastmod>2016-06-29</lastmod>
+     <loc>None/Staff-Console/</loc>
+     <lastmod>2016-06-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>None/staff-console/Getting-To-The-Console/</loc>
-     <lastmod>2016-06-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
     
-        
     <url>
-     <loc>None/user-accounts/Signing-Up/</loc>
-     <lastmod>2016-06-29</lastmod>
+     <loc>None/Viewing-Reports/</loc>
+     <lastmod>2016-06-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
-     <loc>None/user-accounts/Settings/</loc>
-     <lastmod>2016-06-29</lastmod>
+     <loc>None/Searching-For-Guests/</loc>
+     <lastmod>2016-06-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
     <url>
-     <loc>None/user-accounts/Forgot-Password/</loc>
-     <lastmod>2016-06-29</lastmod>
+     <loc>None/User-Accounts/</loc>
+     <lastmod>2016-06-30</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
+    
+
+    
+    <url>
+     <loc>None/Guest-Profiles/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Messages/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Self-Check-In/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Hotel-Setup-Process/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Ivy-For-Choice/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Managers/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Agents/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Best-Practices/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>None/Choice-Advantage-Guest-Report/</loc>
+     <lastmod>2016-06-30</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
     
 
 </urlset>

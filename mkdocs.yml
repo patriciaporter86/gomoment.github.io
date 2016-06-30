@@ -1,12 +1,17 @@
 site_name: Ivy Docs
 pages:
-- getridofthis: 'notneeded.md'
 - Home: 'index.md'
-- Staff Console: 
-  - 'What is the Staff Console?': 'staff-console/Staff-Console.md'
-  - 'Getting To The Console': 'staff-console/Getting-To-The-Console.md' 
-- User Accounts:
-  - 'Signing Up': 'user-accounts/Signing-Up.md' 
-  - 'Settings': 'user-accounts/Settings.md'
-  - 'Forgot Password': 'user-accounts/Forgot-Password.md'
+- Staff Console: 'Staff-Console.md'
+- Viewing Reports: 'Viewing-Reports.md'
+- Searching For Guests: 'Searching-For-Guests.md'
+- User Accounts: 'User-Accounts.md'
+- Guest Profiles: 'Guest-Profiles.md'
+- Messages: 'Messages.md'
+- Self Check In: 'Self-Check-In.md'
+- Hotel Setup Process: 'Hotel-Setup-Process.md'
+- Ivy For Choice: 'Ivy-For-Choice.md'
+- Managers: 'Managers.md'
+- Agents: 'Agents.md'
+- Best Practices: 'Best-Practices.md'
+- Choice Advantage Guest Report: 'Choice-Advantage-Guest-Report.md'
 theme: readthedocs
