@@ -3,6 +3,14 @@
 
     
     <url>
+     <loc>None/notneeded/</loc>
+     <lastmod>2016-06-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>None/</loc>
      <lastmod>2016-06-29</lastmod>
      <changefreq>daily</changefreq>
@@ -10,19 +18,19 @@
     
 
     
+        
     <url>
-     <loc>None/Staff-Console/</loc>
+     <loc>None/staff-console/Staff-Console/</loc>
      <lastmod>2016-06-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
-    
-
-    
+        
     <url>
-     <loc>None/notneeded/</loc>
+     <loc>None/staff-console/Getting-To-The-Console/</loc>
      <lastmod>2016-06-29</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
     
 
 </urlset>
