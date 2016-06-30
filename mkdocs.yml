@@ -1,7 +1,7 @@
 site_name: Ivy Docs 2 (change me in mkdocs.yml)
 pages:
-- getridofthis: notneeded.md
-- Home: index.md
+- getridofthis: 'notneeded.md'
+- Home: 'index.md'
 - Staff Console: 
   - 'What is the Staff Console': 'staff-console/Staff-Console.md'
   - 'Getting To The Console': 'staff-console/Getting-To-The-Console.md' 
