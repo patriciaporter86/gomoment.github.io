@@ -1,6 +1,6 @@
 ### **_Signing Up_**
 
-Users will need to be [invited by a manager](Invite-And-Manage-Users.html#inviting-users) to access their hotel on Ivy. In the meantime, one can sign up for an account by following the instructions below.
+Users will need to be [invited by a manager](./Managers/#inviting-users) to access their hotel on Ivy. In the meantime, one can sign up for an account by following the instructions below.
 
 1) Navigate to the home page of the app, or if you are currently logged in, log out. Click the orange _**'REGISTER'**_ button
 

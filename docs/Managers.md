@@ -1,6 +1,8 @@
 **_Everything on this page is related to Manager accounts_**
 
-For more information on what managers can do, please click the labels from the dropdown menu in the image or use the links on the left.
+Managers have the ability to access the [Staff Console](./Staff-Console/#getting-to-the-console), [Check Guests In](./Staff-Console/#checking-a-guest-in), [Setup Hotel Details](./Managers/#setup-hotel-details) , [Manage Users](./Managers/#managing-users) , [Invite Users](./Managers/#inviting-users),  [Setup Messaging](./Managers/#set-up-messaging)
+
+For more information on how to do these things, please click the labels from the dropdown menu in the image or use the links on the left.
 
 ![](./img/managersmap.png) 
 
@@ -18,7 +20,7 @@ For more information on what managers can do, please click the labels from the d
 
 ![](./img/tripadvisordetails2.png)
 
-4) On the following screen all you need to do is click 'NEXT: MANAGE YOUR TEAM' to continue to [Managing Users](./Invite-and-Manage-Users.html#managing-users) . If you do not see 'NEXT: MANAGE YOUR TEAM', this process has already been completed. Don't worry, we will still save your changes.
+4) On the following screen all you need to do is click 'NEXT: MANAGE YOUR TEAM' to continue to [Managing Users](./Managers/#managing-users) . If you do not see 'NEXT: MANAGE YOUR TEAM', this process has already been completed. Don't worry, we will still save your changes.
 
 ![](./img/manageyourteam.png)
 
@@ -35,11 +37,11 @@ For more information on what managers can do, please click the labels from the d
 
 ###**_<a name="inviting-users">Inviting Users</a>_**
 
-1) Following from step two at the [top of the page page](#manage-users) you will see the Manage Users page for the hotel you selected. Here you can see the form to invite users, and at the bottom of the page can see the list of current users at the hotel.
+1) Following from step two at the [top of the page](#manage-users) you will see the Manage Users page for the hotel you selected. Here you can see the form to invite users, and at the bottom of the page can see the list of current users at the hotel.
 
 ![](./img/manageusers.png)
 
-2) Fill out the form with information corresponding to the user you wish to add. If the user is already in the system they will simply be added to this hotel, if not already in the system they will receive a confirmation email. If you'd like to give this user manager capabilities (see [Managers](./Managers.html)), make sure the _**'Manager'**_ checkbox is checked. If you would like this user to receive notifications when guests text in, make sure the _**'Get immediate notifications'**_ checkbox is checked. Click _**'SEND AN INVITATION'**_ when you have completed the form.
+2) Fill out the form with information corresponding to the user you wish to add. If the user is already in the system they will simply be added to this hotel, if not already in the system they will receive a confirmation email. If you'd like to give this user manager capabilities (see [above](./Managers)), make sure the _**'Manager'**_ checkbox is checked. If you would like this user to receive notifications when guests text in, make sure the _**'Get immediate notifications'**_ checkbox is checked. Click _**'SEND AN INVITATION'**_ when you have completed the form.
 
 ![](./img/invitestaff.png)
 
@@ -73,7 +75,7 @@ You will see the user will be removed from the list of users at the hotel ![](./
 
 ![](./img/userroles.png)
 
-Agents have the ability to access the [Staff Console](./Staff-Console.html) and [Check Guests In](./Checking-A-Guest-In.html), while Manager abilities are outlined on [Managers](./Managers.html) page.
+Agents have the ability to access the [Staff Console](./Staff-Console/#getting-to-the-console) and [Check Guests In](./Staff-Console/#checking-a-guest-in), while Manager abilities are outlined on [Managers](./Managers) page.
 
 For example lets change person from agent to manager. We click on `manager` in the role column for the user `person` and click OK in the pop up window.
 
@@ -83,13 +85,13 @@ You will see that `manager` has gone from grey to green, indicating that the use
 
 ![](./img/userrolechanged.png)
 
-3) If you are managing users after [Setup Hotel Details](./Setup-Hotel-Details.html), click the green 'DONE' button at the top of the screen to continue to [Setting Up Messaging](./Setting-Up-Messaging.html)
+3) If you are managing users after [Setup Hotel Details](./Managers/#setup-hotel-details), click the green 'DONE' button at the top of the screen to continue to [Setting Up Messaging](./Managers/#set-up-messaging)
 
 ![](./img/greendone.png)
 
 ### **_Set Up Messaging_**
 
-1) After completing [Managing Users](./Invite-and-Manage-Users.html#managing-users) you should find yourself at the screen picture in step 2 on this page. Otherwise, to setup messaging, log in with a manager account for the hotel you wish to setup messaging for. Upon log in, you should see a list of hotels this manager account is associated with. Click the 'MANAGE' button and then form the drop down menu click 'Messaging' to continue to setup messaging
+1) After completing [Managing Users](./Managers/#managing-users) you should find yourself at the screen picture in step 2 on this page. Otherwise, to setup messaging, log in with a manager account for the hotel you wish to setup messaging for. Upon log in, you should see a list of hotels this manager account is associated with. Click the 'MANAGE' button and then form the drop down menu click 'Messaging' to continue to setup messaging
 
 ![](./img/setup_ivy.png)
 
@@ -105,7 +107,7 @@ You will see that `manager` has gone from grey to green, indicating that the use
 
 ![](./img/smartresponses.png)
 
-5) On the next screen you are able to create message templates. Message templates are exactly what they sound like, a predetermined message that you can quickly send to guests without having to type the content each time. Templates can serve as common responses related to specific situations. For example if a guest asks for a cot you can create a template that replies " Thank you. We have notified housekeeping and a cot will be up shortly." As seen on the page, you can include {guest_name} or {hotel_name} in your template - when the guest receives the message {guest_name} appears as their name (example John Smith), and {hotel_name} appears as the property name (example Camelot Inn and Suites). Message template usage is further documented at [Viewing Sending Messages to Guests](./Viewing-Sending-Messages-to-Guests.html). After clicking add new template, you can provide the name of the template and the message content in the dropdown. Click the 'SAVE & NEXT' button to continue.
+5) On the next screen you are able to create message templates. Message templates are exactly what they sound like, a predetermined message that you can quickly send to guests without having to type the content each time. Templates can serve as common responses related to specific situations. For example if a guest asks for a cot you can create a template that replies " Thank you. We have notified housekeeping and a cot will be up shortly." As seen on the page, you can include {guest_name} or {hotel_name} in your template - when the guest receives the message {guest_name} appears as their name (example John Smith), and {hotel_name} appears as the property name (example Camelot Inn and Suites). Message template usage is further documented at [Viewing Sending Messages to Guests](./Staff-Console/#viewingsending-messages-to-guests). After clicking add new template, you can provide the name of the template and the message content in the dropdown. Click the 'SAVE & NEXT' button to continue.
 
 ![](./img/messagetemplates.png)
 
