@@ -20,7 +20,7 @@ For more information on Accepting(LINK), Assigning(LINK), or Resolving(LINK) a m
 
 ![](./img/greenaccept.png)
 
-6) After clicking the green _**'ACCEPT'**_ button, you should see that the message has been sent to the guest.
+5) After clicking the green _**'ACCEPT'**_ button, you should see that the message has been sent to the guest.
 
 ![](./img/messagesent.png)
 
