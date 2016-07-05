@@ -1,9 +1,17 @@
-site_name: Ivy Docs 2 (change me in mkdocs.yml)
+site_name: Ivy Docs
 pages:
-- getridofthis: notneeded.md
-- Home: index.md
-- Staff Console: 
-  - 'What is the Staff Console': staff-console/Staff-Console.md
-  - 'Getting To The Console': staff-console/Getting-To-The-Console.md 
-
+- Home: 'index.md'
+- Hotel Setup Process: 'Hotel-Setup-Process.md'
+- Ivy For Choice: 'Ivy-For-Choice.md'
+- Managers: 'Managers.md'
+- Agents: 'Agents.md'
+- Staff Console - Guest Conversations: 'Staff-Console.md'
+- Viewing Reports - Trends & Analytics: 'Viewing-Reports.md'
+- Searching For Guests: 'Searching-For-Guests.md'
+- User Accounts: 'User-Accounts.md'
+- Guest Profiles: 'Guest-Profiles.md'
+- Messages: 'Messages.md'
+- Self Check In: 'Self-Check-In.md'
+- Best Practices: 'Best-Practices.md'
+- Choice Advantage Guest Report: 'Choice-Advantage-Guest-Report.md'
 theme: readthedocs
