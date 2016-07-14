@@ -8,7 +8,7 @@ For more information on what agents can do, please click the labels in the image
 
 ![](./img/agentmap.png)
 
-### Adding a New User
+### Adding a New Users
 
 1) Open the menu by clicking on the three-line menu icon at the top left of the screen
 
