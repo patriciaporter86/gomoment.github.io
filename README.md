@@ -4,9 +4,9 @@ a place to properly build our ivy docs. can test and compare with old
 This readme should help with master plan of whats needed/missing and process for adding/updating
  - will make MD instructions on how to edit the MD files that this documentation is made up of
  
-THINGS MISSING/TO BE ADDED
-patricia’s emails [ talk her about whats new (instead of reading whole thing), what she wants added and whats specific to TI)
--one feature is to add more links to the console image map
+THINGS MISSING/TO BE ADDED  
+- patricia’s emails [ talk her about whats new (instead of reading whole thing), what she wants added and whats specific to TI)
+- one feature is to add more links to the console image map
 - message history, categorizing a message
 
 MAKE CHANGES IN MARKDOWN WHENEVER POSSIBLE
