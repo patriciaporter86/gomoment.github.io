@@ -1,12 +1,12 @@
 ###**_What is the Staff Console?_**
 
-The Staff Console is where you can see all of your guests and their conversation history. Please use the links on the left or click on areas in the image below to learn more about the Staff Console.
+The Staff Console is the primary access point to view all guest details, open requests, sentiment, and conversations. You will always be directed to the [CHECKED IN](./Staff-Console/#checked-in) tab first because this is where you’ll find your current in-house guests. Please use the links on the left or click on areas in the image below to learn more about the Staff Console.
 
 ![](./img/staffconsolemap.png)
 
 ###**_Getting To The Console_**
 
-1) Log in as a non admin and see all the hotels your account is associated with.
+1) Log in and see all the hotels your account is associated with.
 
 ![](./img/agent-root.png)
 
@@ -15,9 +15,10 @@ The Staff Console is where you can see all of your guests and their conversation
 ![](./img/agent-console.png)
 
 3) You should see a console like this:  
+
 ![](./img/HotelConsole.png)
 
-**_Within the console you can see four tabs at the top: CHECKED IN, SCHEDULED, UNVERIFIED, and CHECKED OUT_**
+**_Within the console you can see four tabs at the top: [CHECKED IN](./Staff-Console/#checked-in), [SCHEDULED](./Staff-Console/#scheduled), [UNVERIFIED](./Staff-Console/#unverified), and [CHECKED OUT](./Staff-Console/#checked-out)_**
 
 **_<a name="checked-in">Checked In Visits</a>_**
 
@@ -89,7 +90,7 @@ Click `ADD NOTE` and it will appear as part of list of all previous notes
 
 ### **_Removing a Guest Visit_**
 
-1) From the staff console, you can remove a guest visit by selecting a given guest from the list on the left of the console, and clicking the three vertical dots at the right, and then click remove visit.
+1) If a visit is created by mistake, or if a guest cancels, you may want to remove their visit. From the staff console, you can remove a guest visit by selecting a given guest from the list on the left of the console, and clicking the three vertical dots at the right, and then click remove visit.
 
 ![](./img/RemoveVisit.png)
 

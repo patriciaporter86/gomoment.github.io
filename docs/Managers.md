@@ -4,15 +4,15 @@ Managers have the ability to access the [Staff Console](./Staff-Console/#getting
 
 For more information on how to do these things, please click the labels from the dropdown menu in the image or use the links on the left.
 
-![](./img/managersmap.png) 
+![](./img/managersmap2.png) 
 
 ### **_Setup Hotel Details_**
 
 1) To Setup Hotel Details, log in with a manager account for the hotel you wish to setup messaging for. Upon log in, you should see a list of hotels this manager account is associated with. Click the 'MANAGE' button and then from the drop down menu click 'Hotel Details'.
 
-![](./img/setup_details.png)
+![](./img/setup_details2.png)
 
-2) The first section to complete is the **BASIC INFO** section. Complete the form with information corresponding to your hotel. If you choose yes for `Would you like to allow guests to opt-in by sending Ivy a text message first?` , guests can text in to the hotel and will appear on the unverified visits tab (add link when you create brief section explaining visits tabs). Click the 'SAVE & NEXT' button to continue.
+2) The first section to complete is the **BASIC INFO** section. Complete the form with information corresponding to your hotel. Click the 'SAVE & NEXT' button to continue.
 
 ![](./img/ivysetuphotelinfo2.png)
 
@@ -20,9 +20,9 @@ For more information on how to do these things, please click the labels from the
 
 ![](./img/tripadvisordetails2.png)
 
-4) On the following screen all you need to do is click 'NEXT: MANAGE YOUR TEAM' to continue to [Managing Users](./Managers/#managing-users) . If you do not see 'NEXT: MANAGE YOUR TEAM', this process has already been completed. Don't worry, we will still save your changes.
+4) On the following screen you will see a message that your changes have been saved.
 
-![](./img/manageyourteam.png)
+![](./img/saveandnext.png)
 
 ###**_Manage Users Page_**
 
@@ -37,7 +37,7 @@ For more information on how to do these things, please click the labels from the
 
 ###**_<a name="inviting-users">Inviting Users</a>_**
 
-1) Following from step two at the [top of the page](#manage-users) you will see the Manage Users page for the hotel you selected. Here you can see the form to invite users, and at the bottom of the page can see the list of current users at the hotel.
+1) Following from [step two](#manage-users) of Manage Users Page, you will see the Manage Users page for the hotel you selected. Here you can see the form to invite users, and at the bottom of the page can see the list of current users at the hotel.
 
 ![](./img/manageusers.png)
 
@@ -59,7 +59,7 @@ Also the user who was invited will see an email similar to the one below
 
 ###**_<a name="managing-users">Managing Users</a>_**
 
-1) After completing [Setup Hotel Details](./Setup-Hotel-Details.html) or following from step two at the [top of the page](#manage-users) you will see the Manage Users page for the hotel you selected. Here you can see the form to invite users, and at the bottom of the page can see the list of current users at the hotel.
+1) Following from [step two](#manage-users) of Manage Users Page, you will see the Manage Users page for the hotel you selected. Here you can see the form to invite users, and at the bottom of the page can see the list of current users at the hotel.
 
 ![](./img/manageusers.png)
 
@@ -85,13 +85,10 @@ You will see that `manager` has gone from grey to green, indicating that the use
 
 ![](./img/userrolechanged.png)
 
-3) If you are managing users after [Setup Hotel Details](./Managers/#setup-hotel-details), click the green 'DONE' button at the top of the screen to continue to [Setting Up Messaging](./Managers/#set-up-messaging)
-
-![](./img/greendone.png)
 
 ### **_Set Up Messaging_**
 
-1) After completing [Managing Users](./Managers/#managing-users) you should find yourself at the screen picture in step 2 on this page. Otherwise, to setup messaging, log in with a manager account for the hotel you wish to setup messaging for. Upon log in, you should see a list of hotels this manager account is associated with. Click the 'MANAGE' button and then form the drop down menu click 'Messaging' to continue to setup messaging
+1) To Setup Messaging, log in with a manager account for the hotel you wish to setup messaging for. Upon log in, you should see a list of hotels this manager account is associated with. Click the 'MANAGE' button and then form the drop down menu click 'Messaging' to continue to setup messaging
 
 ![](./img/setup_ivy.png)
 
@@ -103,14 +100,16 @@ You will see that `manager` has gone from grey to green, indicating that the use
 
 ![](./img/welcomingyourguests.png)
 
-4) On the next screen you are able to set up Ivy smart responses for your guests. You can provide a response for specific subjects, like `pool` or `wifi`, or contact our staff to set up responses for additional scenarios. Click the 'SAVE & NEXT' button to continue.
+4) On the next screen you are able to set up Ivy smart responses for your guests. You can provide a response for specific subjects, like `pool` or `wifi`, or [contact GoMoment staff](mailto:support@gomoment.com) to set up responses for additional scenarios. Click the 'SAVE & NEXT' button to continue.
 
 ![](./img/smartresponses.png)
 
-5) On the next screen you are able to create message templates. Message templates are exactly what they sound like, a predetermined message that you can quickly send to guests without having to type the content each time. Templates can serve as common responses related to specific situations. For example if a guest asks for a cot you can create a template that replies " Thank you. We have notified housekeeping and a cot will be up shortly." As seen on the page, you can include {guest_name} or {hotel_name} in your template - when the guest receives the message {guest_name} appears as their name (example John Smith), and {hotel_name} appears as the property name (example Camelot Inn and Suites). Message template usage is further documented at [Viewing Sending Messages to Guests](./Staff-Console/#viewingsending-messages-to-guests). After clicking add new template, you can provide the name of the template and the message content in the dropdown. Click the 'SAVE & NEXT' button to continue.
+5) On the next screen you are able to create message templates. Message templates are exactly what they sound like, a predetermined message that you can quickly send to guests without having to type the content each time. Templates can serve as common responses related to specific situations. For example if a guest asks for a cot you can create a template that replies " Thank you. We have notified housekeeping and a cot will be up shortly." 
+
+As seen on the page, you can include {guest_name} or {hotel_name} in your template - when the guest receives the message {guest_name} appears as their name (example John Smith), and {hotel_name} appears as the property name (example Camelot Inn and Suites). Message template usage is further documented at [Viewing Sending Messages to Guests](./Staff-Console/#viewingsending-messages-to-guests). After clicking add new template, you can provide the name of the template and the message content in the dropdown. Click the 'SAVE & NEXT' button to continue.
 
 ![](./img/messagetemplates.png)
 
-6) On the next screen all you need to do is click the 'NEXT: SOFT LAUNCH' button to begin testing Ivy! If you do not see 'NEXT: SOFT LAUNCH', this process has already been completed. Don't worry, we will still save your changes.
+6) On the following screen you will see a message that your changes have been saved.
 
-![](./img/softlaunch.png)
+![](./img/softlaunch2.png)

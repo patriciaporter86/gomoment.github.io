@@ -1,8 +1,8 @@
 site_name: Ivy Docs
 pages:
 - Home: 'index.md'
-- Hotel Setup Process: 'Hotel-Setup-Process.md'
 - Ivy For Choice: 'Ivy-For-Choice.md'
+- Hotel Setup Process: 'Hotel-Setup-Process.md'
 - Managers: 'Managers.md'
 - Agents: 'Agents.md'
 - Staff Console - Guest Conversations: 'Staff-Console.md'

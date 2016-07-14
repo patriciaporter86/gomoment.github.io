@@ -1,10 +1,10 @@
-For more information on Accepting(LINK), Assigning(LINK), or Resolving(LINK) a message, please click the labels in the image below or use the links on the left.
+For more information on [Accepting](Messages/#accepting-a-message), [Assigning](Messages/#assigning-a-message), or [Resolving](Messages/#resolving-a-message) a message, please click the labels in the image below or use the links on the left.
 
 ![](./img/messagemap.png)
 
 ###**_Accepting A Message_**
 
-1) When a message is assigned to you, there will be a label beneath the message stating this.
+1) When a message is assigned to you, you will receive a notification via email or text which provides a link to the message. There will also be a label beneath the message stating that you are assigned.
 
 ![](./img/assignedyou.png)
 
@@ -30,27 +30,31 @@ For more information on Accepting(LINK), Assigning(LINK), or Resolving(LINK) a m
 
 ![](./img/hamburger.png)
 
-2) Select a hotel from the list
+2) Click on Dashboard
 
-![](./img/HotelList.png)
+![](./img/agentsidebar.png)
 
-3) On the following screen, in the left panel, click on the guest that the message you wish to assign belongs to.
+3) On the following screen, find the hotel you wish to assign a message at, and click on _**'CONSOLE'**_
+
+![](./img/agentclickdashboard.png)
+
+4) On the following screen, in the left panel, click on the guest that the message you wish to assign belongs to.
 
 ![](./img/selectguest.png)
 
-4) After clicking on the corresponding guest, click on the blue _**'ACTIONS'**_ button. Click on _Assign this message_ to assign the message.
+5) After clicking on the corresponding guest, click on the blue _**'ACTIONS'**_ button. Click on _Assign this message_ to assign the message.
 
 ![](./img/assign.png)
 
-5) After clicking on _Assign this message_, you will see the following screen
+6) After clicking on _Assign this message_, you will see the following screen
 
 ![](./img/assignscreen.png)
 
-6) Click on _No One_ for a dropdown menu of all the available users you can assign this message to. To add a user who is not on the list, please see _**'ADDUSER'**_
+7) Click on _No One_ for a dropdown menu of all the available users you can assign this message to. To add a user who is not on the list, please see _**'ADDUSER'**_
 
 ![](./img/assignee.png)
 
-7) Select the user you wish to assign the message to. If you'd like to leave a note for the user, there is a notes field where you can type the note you'd like to leave.
+8) Select the user you wish to assign the message to. If you'd like to leave a note for the user, there is a notes field where you can type the note you'd like to leave.
 
 ![](./img/assigned.png)
 
@@ -58,7 +62,7 @@ Once you've completed the form click the green _**'ASSIGN'**_ button
 
 ![](./img/greenassign.png)
 
-8) After clicking the green _**'ASSIGN'**_ button, you should see that the user you selected has been assigned to this message.
+9) After clicking the green _**'ASSIGN'**_ button, you should see that the user you selected has been assigned to this message.
 
 ![](./img/verifyassigned.png)
 
@@ -68,23 +72,27 @@ Once you've completed the form click the green _**'ASSIGN'**_ button
 
 ![](./img/hamburger.png)
 
-2) Select a hotel from the list
+2) Click on Dashboard
 
-![](./img/HotelList.png)
+![](./img/agentsidebar.png)
 
-3) On the following screen, in the left panel, click on the guest that the message you wish to assign belongs to.
+3) On the following screen, find the hotel you wish to assign a message at, and click on _**'CONSOLE'**_
+
+![](./img/agentclickdashboard.png)
+
+4) On the following screen, in the left panel, click on the guest that the message you wish to assign belongs to.
 
 ![](./img/exampleguestmessage.png)
 
-4) After clicking on the corresponding guest, click on the blue _**'ACTIONS'**_ button. Click on _Resolve this message_ to resolve the message.
+5) After clicking on the corresponding guest, click on the blue _**'ACTIONS'**_ button. Click on _Resolve this message_ to resolve the message.
 
 ![](./img/assign.png)
 
-5) After clicking on _Resolve this message_, you will see the following screen
+6) After clicking on _Resolve this message_, you will see the following screen
 
 ![](./img/resolvescreen.png)
 
-6) Enter a note regarding how the message was resolved. Notice that unresolved messages are red, and resolved messages are blue and say resolved under them.
+7) Enter a note regarding how the message was resolved. Notice that unresolved messages are red, and resolved messages are blue and say resolved under them.
 
 ![](./img/resolved.png)
 
@@ -92,6 +100,6 @@ Once you've completed the form click the green _**'RESOLVE'**_ button
 
 ![](./img/greenresolve.png)
 
-7) After clicking the green _**'RESOLVE'**_ button, you should see that the message has been resolved.
+8) After clicking the green _**'RESOLVE'**_ button, you should see that the message has been resolved.
 
 ![](./img/verifyresolved.png)

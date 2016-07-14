@@ -1,6 +1,8 @@
 ### **_Signing Up_**
 
-Users will need to be [invited by a manager](./Managers/#inviting-users) to access their hotel on Ivy. In the meantime, one can sign up for an account by following the instructions below.
+Users will need to be [invited by a manager](./Managers/#inviting-users) to access their hotel on Ivy. 
+
+In the meantime, one can sign up for an account by following the instructions below.
 
 1) Navigate to the home page of the app, or if you are currently logged in, log out. Click the orange _**'REGISTER'**_ button
 
@@ -14,7 +16,7 @@ Users will need to be [invited by a manager](./Managers/#inviting-users) to acce
 
 ![](./img/signupsuccess.png)
 
-4) You will have acccess to the site with your account for 2 days from the time of creation. After that you will need to verify your account. Check the email you signed registered with and you will see an email that looks like the following. Click on _**Confirm My Account**_ to finalize the registration process for this account.
+4) You will have acccess to the site with your account for 2 days from the time of creation. After that you will need to verify your account. Check the email you registered with and you will see an email that looks like the following. Click on _**Confirm My Account**_ to finalize the registration process for this account.
 
 ![](./img/confirmaccountemail.png)
 
@@ -30,11 +32,11 @@ Users will need to be [invited by a manager](./Managers/#inviting-users) to acce
 
 2) Click on your name near the top of the menu that appears.
 
-![](./img/yourname.png)
+![](./img/yourname2.png)
 
 3) After clicking on your name, click on the _settings_ button
 
-![](./img/settings.png)
+![](./img/settings2.png)
 
 4) On the following page you will see a form that looks like the following.
 

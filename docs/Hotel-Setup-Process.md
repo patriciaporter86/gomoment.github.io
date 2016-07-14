@@ -1,4 +1,8 @@
-After creating hotel using [Ivy For Choice](./Ivy-For-Choice) , login with the account you used for that process and you will see your hotel is 'Initialized'. You can see step 3 to confirm this. There are three steps to setting up your hotel - [Setup Hotel Details](#setup-hotel-details) , [Manage Users](#manage-users) , and [Setup Messaging](#setup-messaging)
+**_If you were part of our self onboarding program then the following applies. _**
+
+
+
+Log in with the account you used for that process and you will see your hotel is 'Initialized'. You can see step 3 to confirm this. There are three steps to setting up your hotel - [Setup Hotel Details](#setup-hotel-details) , [Manage Users](#manage-users) , and [Setup Messaging](#setup-messaging)
 
 1) Open the menu by clicking on the three-line menu icon at the top left of the screen
 
@@ -63,7 +67,7 @@ Also the user who was invited will see an email similar to the one below
 
 ![](./img/welcomingyourguests2.png)
 
-14) On the next screen you are able to set up Ivy smart responses for your guests. You can provide a response for specific subjects, like `pool` or `wifi`, or contact our staff to set up responses for additional scenarios. Click the 'SAVE & NEXT' button to continue.
+14) On the next screen you are able to set up Ivy smart responses for your guests. You can provide a response for specific subjects, like `pool` or `wifi`, or [contact GoMoment staff](mailto:support@gomoment.com) to set up responses for additional scenarios. Click the 'SAVE & NEXT' button to continue.
 
 ![](./img/smartresponses.png)
 
@@ -91,5 +95,5 @@ As seen on the page, you can include {guest_name} or {hotel_name} in your templa
     [Manage Users](./Managers/#managing-users)  
     [Setup Messaging](./Managers/#set-up-messaging),
 
-19) An admin will need to transition your hotel's state to 'active' to fully engage Ivy.
+19) GoMoment staff will need to transition your hotel's state to 'active' to fully engage Ivy.
 

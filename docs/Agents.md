@@ -1,3 +1,5 @@
+**_Everything on this page is related to Agent accounts_**
+
 Access the Agent side bar by logging in with an agent account and clicking on the three-line menu icon at the top left of the screen
 
 ![](./img/hamburger.png)
@@ -14,7 +16,7 @@ For more information on what agents can do, please click the labels in the image
 
 2) Click on the _Add New User_ label
 
-![](./img/newusernonadmin.png)
+![](./img/AddNewUser.png)
 
 3) You should be directed to a green page which prompts you for a series of questions
 
@@ -24,7 +26,7 @@ For more information on what agents can do, please click the labels in the image
 
 ![](./img/presssubmit.png)
 
-5) Upon success, you will a see a screen similar to the following, but containing the information you provided for the User you created. Click on the green _**'FINISHED'**_ button.
+5) Upon success, you will see a screen similar to the following, but containing the information you provided for the User you created. Click on the green _**'FINISHED'**_ button.
 
 ![](./img/newusersuccess.png)
 
@@ -35,7 +37,7 @@ For more information on what agents can do, please click the labels in the image
 ![](./img/hamburger.png)
 
 2) Click on the _Add New Campaign_ label  
-![](./img/AddNewCampaign.png)
+![](./img/AddNewCampaign2.png)
 
 3)You should be brought to this screen
 
@@ -57,7 +59,7 @@ For more information on what agents can do, please click the labels in the image
 
 2) Click on the _Add New Smart Response_ label
 
-![](./img/AddNewSmartResponse.png)
+![](./img/AddNewSmartResponse2.png)
 
 3) You should be brought to this screen. Click the green start button or press enter to continue.
 

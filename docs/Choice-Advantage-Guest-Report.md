@@ -21,4 +21,4 @@
 9.  Name the file and save it on your desktop for easy retrieval.
 10.  Attach this file to your reminder email and send!
 
-*   **Ivy will automatically check you guests in, text them, and check them out!**
+*   **Ivy will automatically check your guests in, text them, and check them out!**

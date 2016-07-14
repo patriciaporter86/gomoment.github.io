@@ -14,6 +14,6 @@ Properties are able to send welcome messages to their guests. Within the welcome
 
 ![](./img/selfcheckinsuccess.png)
 
-4)  Back on the staff console (see [Getting to the Console](/Staff-Console/#getting-to-the-console) the guest who self checked in will appear among the unverified visits.
+4)  Back on the staff console (see [Getting to the Console](/Staff-Console/#getting-to-the-console)) the guest who self checked in will appear among the unverified visits. To verify this guest's visit, or any unverified visit, please see the second step in [Unverified Visits](/Staff-Console/#unverified)
 
 ![](./img/selfcheckinguestappears.png)
